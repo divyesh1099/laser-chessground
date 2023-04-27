@@ -1,5 +1,10 @@
 # LaserChessground
 
+## Deployed to [MotiDivya-ChessGround](https://divyesh-chessground.web.app/) using [Firebase](https://firebase.google.com/). 
+
+## Description
+It's a research based Open source Chess board app where I will integrate [StockFish](https://stockfishchess.org/) and try to improve the speed of the engine when it's set to depth 99. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
